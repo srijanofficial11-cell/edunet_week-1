@@ -1,5 +1,6 @@
 # Edunet-Week-1
-creation of chatbot and analysis of dataset
+🧠 Week-1: EV Chatbot & Vehicle Data Analysis Project
+Creation of chatbot and analysis of dataset
 Here is a revised version of the text, maintaining the original context and information while improving clarity and flow.
 
 -----
