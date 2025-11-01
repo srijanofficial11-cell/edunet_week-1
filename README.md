@@ -16,6 +16,8 @@ This repository details a project with two primary components:
 
 
 The ultimate goal is to combine conversational AI with data analytics to effectively understand and communicate trends within the EV industry.
+
+
 Features:-
 🔹 EV Data Analysis
 
